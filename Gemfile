@@ -2,9 +2,9 @@
 # the following line to use "https"
 source 'http://rubygems.org'
 
-gem "middleman", "3.3.7"
-gem "middleman-livereload", "3.4.2"
-gem 'middleman-minify-html', '3.4.0'
+gem "middleman", "3.3.8"
+gem "middleman-livereload", "3.4.3"
+gem 'middleman-minify-html', '3.4.1'
 
 gem 'compass', '1.0.3'
 gem 'sass', '3.4.11'
